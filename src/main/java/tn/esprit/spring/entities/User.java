@@ -39,7 +39,8 @@ public class User implements Serializable {
 
 	public User(String firstName, String lastName, Date dateNaissance, Role role) {
 		super();
-		this.firstName = firstName;
+		// hello world!
+		this.firstName = firstNameHello;
 		this.lastName = lastName;
 		this.dateNaissance = dateNaissance;
 		this.role = role;
