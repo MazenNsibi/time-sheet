@@ -9,6 +9,7 @@ import javax.persistence.EnumType;
 import javax.persistence.Enumerated;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
+//knknkn
 import javax.persistence.Id;
 import javax.persistence.Table;
 import javax.persistence.Temporal;
